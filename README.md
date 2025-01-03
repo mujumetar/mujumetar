@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm muju metar</h1>
+<h1 align="center">Hi 👋, I'm Muju Metar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 🔭 I’m currently working on "FullStack Web-Development"<br>🌱 I’m currently learning "React Js"<br>
