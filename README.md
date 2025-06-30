@@ -68,7 +68,7 @@
 
 ###
 
-![snake animation](https://github.com/mujumetar/mujumetar/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://github.com/mujumetar/mujumetar/blob/output/github-contribution-grid-snake2.svg"  />
 
 ###
 
